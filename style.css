@@ -1,0 +1,226 @@
+#navbar {
+  justify-content: space-between;
+  position: fixed;
+  width: 100%;
+}
+
+#navbar-2 {
+  display: flex;
+}
+
+body {
+  margin: 0px
+}
+
+#navbar-logo {
+  margin: 30px 20px 20px 30px;
+}
+
+#navbar-logo img {
+  width: 800px;
+  margin-left: 100px;
+}
+
+#navigation {
+  font-family: 'Squada One', cursive;
+  font-size: 35px;
+  margin-left: 100px;
+  display: flex;
+}
+
+.nav-link {
+  margin: 0px 50px;
+  align-self: center;
+}
+
+.nav-link a {
+  text-decoration: none;
+  color: #3c3c3c;
+  text-align: center;
+}
+
+#hero {
+  background-image: url(img/1.0.jpg);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+}
+
+#hero>div {
+  flex: 2;
+}
+
+#titulo-principal {
+  align-self: center;
+  margin-left: 380px;
+  color: #3c3c3c;
+  font-size: 30px;
+  font-family: 'Squada One', cursive;
+}
+
+#final-countdown {
+  align-self: center;
+  text-align: center;
+}
+
+#wrapper {
+  padding: 0px 0%;
+}
+
+#navbar-wrapper {
+  display: flex;
+}
+
+#pag-calendario {
+  background-image: url(img/2.0.jpg);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+}
+
+.card-img-top {
+  height: 200px;
+}
+
+.card {
+  align-content: center;
+  display: flex;
+}
+
+.card-text {
+  text-align: center;
+}
+
+#about-us {
+  background-image: url(img/4.0.jpg);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+}
+
+#titulo-principal-2 {
+  align-self: center;
+  margin-left: 450px;
+  margin-top: 120px;
+  color: #3c3c3c;
+  font-size: 30px;
+  font-family: 'Squada One', cursive;
+}
+
+#titulo-principal-3 {
+  margin-left: 470px;
+  color: #3c3c3c;
+  font-size: 30px;
+  font-family: 'Squada One', cursive;
+  margin-bottom: 120px
+}
+
+.link-evento {
+  margin: 0px 25px;
+  text-align: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.link-evento a {
+  text-decoration: none;
+  color: #3c3c3c;
+  align-self: center;
+}
+
+.link-evento img {
+  width: 200px
+}
+
+.navbar-calendario-1 {
+  font-family: 'Squada One', cursive;
+  font-size: 30px;
+  margin: 60px;
+  display: flex;
+  align-self: center;
+}
+
+.navbar-calendario-2 {
+  font-family: 'Squada One', cursive;
+  font-size: 30px;
+  margin: 60px;
+  display: flex;
+  align-self: center;
+}
+
+#wrapper-calendario {
+  width: 100%;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#titulo-mes {
+  align-self: center;
+  height: 200x;
+}
+
+#pag-calendario-2 {
+  background-image: url(img/3.0.jpg);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+}
+
+#titulo-principal-4 {
+  margin-left: 520px;
+  color: #3c3c3c;
+  font-size: 30px;
+  font-family: 'Squada One', cursive;
+}
+
+#titulo-principal-5 {
+  margin-left: 530px;
+  color: #3c3c3c;
+  font-size: 30px;
+  font-family: 'Squada One', cursive;
+}
+
+#pag-calendario-3 {
+  background-image: url(img/5.0.jpg);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+}
+
+#titulo-principal-6 {
+  margin-left: 520px;
+  color: #3c3c3c;
+  font-size: 30px;
+  font-family: 'Squada One', cursive;
+}
+
+#titulo-principal-7 {
+  margin-left: 480px;
+  color: #3c3c3c;
+  font-size: 30px;
+  font-family: 'Squada One', cursive;
+}
+
+#big-wrapper-1 {
+  display: flex;
+  align-self: center;
+  background-color: #e0cdcda8;
+  width: 100%;
+}
+
+#big-wrapper-2 {
+  display: flex;
+  align-self: center;
+  background-color: #b8f1fb85;
+  width: 100%;
+}
+
+#big-wrapper-3 {
+  display: flex;
+  align-self: center;
+  background-color: #cec9f57d;
+  width: 100%;
+}
