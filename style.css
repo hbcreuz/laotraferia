@@ -56,11 +56,64 @@
     margin-left: -15px;
 }
 
+<<<<<<< HEAD
+=======
+#big-wrapper-2{
+  width: 100%;
+  margin: 10%;
+  height: 10%;
+}
+
+>>>>>>> f3b3f7dabb8fda3162a45caa09e02a55df7c72fb
 #titulo-principal{
   display: flex;
   margin: 10%;
   }
 
+<<<<<<< HEAD
+=======
+.card{
+display: inline-block;
+position: relative;
+min-height: 1px;
+padding-right: 15px;
+padding-left: 15px;
+  }
+
+.work-items {
+position: relative;
+margin-top: 30px;
+border-radius: 5px;
+border: 1px solid #ddd
+}
+
+.item {
+  position: relative;
+  margin-top: 30px;
+  border-radius: 5px;
+  border: 1px solid #ddd
+  }
+
+.work-items .item img {
+  width: 50%;
+  vertical-align: middle;
+  }
+
+.work-items .overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    text-align: center;
+    opacity: 0;
+    transition: 0.3s cubic-bezier(0.4, 0, 1, 1);
+    -ms-transition: 0.3s cubic-bezier(0.4, 0, 1, 1);
+    -moz-transition: 0.3s cubic-bezier(0.4, 0, 1, 1);
+    -webkit-transition: 0.3s cubic-bezier(0.4, 0, 1, 1);
+}
+
+>>>>>>> f3b3f7dabb8fda3162a45caa09e02a55df7c72fb
 #titulo{
   align-self: center;
   display: flex;
@@ -85,6 +138,7 @@
   display: flex;
  }
 
+<<<<<<< HEAD
  #big-wrapper-2{
    width: 90%;
    float: right;
@@ -110,6 +164,8 @@
  size: 10vh;
 }
 
+=======
+>>>>>>> f3b3f7dabb8fda3162a45caa09e02a55df7c72fb
  #pag-calendario2{
   background-image: url(img/3.0.jpg);
   background-size: cover;
